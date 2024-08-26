@@ -1,0 +1,13 @@
+C:\Users\Windows 10\Downloads\OneDrive\Área de Trabalho\Projeto Web-Lh Pets versão 1\bin\Release\net6.0\publish\Projeto Web-Lh Pets versão 1.exe
+C:\Users\Windows 10\Downloads\OneDrive\Área de Trabalho\Projeto Web-Lh Pets versão 1\bin\Release\net6.0\publish\appsettings.Development.json
+C:\Users\Windows 10\Downloads\OneDrive\Área de Trabalho\Projeto Web-Lh Pets versão 1\bin\Release\net6.0\publish\appsettings.json
+C:\Users\Windows 10\Downloads\OneDrive\Área de Trabalho\Projeto Web-Lh Pets versão 1\bin\Release\net6.0\publish\Projeto Web-Lh Pets versão 1.dll
+C:\Users\Windows 10\Downloads\OneDrive\Área de Trabalho\Projeto Web-Lh Pets versão 1\bin\Release\net6.0\publish\Projeto Web-Lh Pets versão 1.deps.json
+C:\Users\Windows 10\Downloads\OneDrive\Área de Trabalho\Projeto Web-Lh Pets versão 1\bin\Release\net6.0\publish\Projeto Web-Lh Pets versão 1.runtimeconfig.json
+C:\Users\Windows 10\Downloads\OneDrive\Área de Trabalho\Projeto Web-Lh Pets versão 1\bin\Release\net6.0\publish\Projeto Web-Lh Pets versão 1.pdb
+C:\Users\Windows 10\Downloads\OneDrive\Área de Trabalho\Projeto Web-Lh Pets versão 1\bin\Release\net6.0\publish\System.Data.SqlClient.dll
+C:\Users\Windows 10\Downloads\OneDrive\Área de Trabalho\Projeto Web-Lh Pets versão 1\bin\Release\net6.0\publish\runtimes\win-arm64\native\sni.dll
+C:\Users\Windows 10\Downloads\OneDrive\Área de Trabalho\Projeto Web-Lh Pets versão 1\bin\Release\net6.0\publish\runtimes\win-x64\native\sni.dll
+C:\Users\Windows 10\Downloads\OneDrive\Área de Trabalho\Projeto Web-Lh Pets versão 1\bin\Release\net6.0\publish\runtimes\win-x86\native\sni.dll
+C:\Users\Windows 10\Downloads\OneDrive\Área de Trabalho\Projeto Web-Lh Pets versão 1\bin\Release\net6.0\publish\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Windows 10\Downloads\OneDrive\Área de Trabalho\Projeto Web-Lh Pets versão 1\bin\Release\net6.0\publish\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll

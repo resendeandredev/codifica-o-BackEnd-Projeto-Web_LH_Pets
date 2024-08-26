@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "l38vy/mxxfPQSHIjlJMVDFWOF9SlrGLNLvQwmwmFxLM=",
+  "Source": "Projeto Web-Lh Pets versão 1",
+  "BasePath": "_content/Projeto Web-Lh Pets versão 1",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Projeto Web-Lh Pets versão 1\\wwwroot",
+      "Source": "Projeto Web-Lh Pets versão 1",
+      "ContentRoot": "C:\\Users\\Windows 10\\Downloads\\OneDrive\\Área de Trabalho\\Projeto Web-Lh Pets versão 1\\wwwroot\\",
+      "BasePath": "_content/Projeto Web-Lh Pets versão 1",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Windows 10\\Downloads\\OneDrive\\Área de Trabalho\\Projeto Web-Lh Pets versão 1\\wwwroot\\index.html",
+      "SourceId": "Projeto Web-Lh Pets versão 1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Windows 10\\Downloads\\OneDrive\\Área de Trabalho\\Projeto Web-Lh Pets versão 1\\wwwroot\\",
+      "BasePath": "_content/Projeto Web-Lh Pets versão 1",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}
